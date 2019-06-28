@@ -1,0 +1,20 @@
+{
+  "name": "angular-ui-bootstrap",
+  "version": "0.9.0-npm",
+  "description": "Bootstrap widgets for Angular",
+  "main": "ui-bootstrap-tpls.js",
+  "homepage": "http://angular-ui.github.io/bootstrap/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angular-ui/bootstrap.git"
+  },
+  "keywords": [
+    "angular",
+    "bootstrap",
+    "angular-ui",
+    "components",
+    "client-side"
+  ],
+  "author": "https://github.com/angular-ui/bootstrap/graphs/contributors",
+  "license": "MIT"
+}
